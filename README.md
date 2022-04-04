@@ -1,4 +1,4 @@
-# pregunta3
+# Primera versión pregunta3
 
 Pregunta3 es un juego para jugar con amigos y familia en diferentes situaciones.  
 
